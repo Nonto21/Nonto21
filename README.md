@@ -54,5 +54,5 @@ I'm interested in graduate and entry-level opportunities in Data Science, Machin
 
 **LinkedIn:** https://www.linkedin.com/in/nontokozo-dladla-6ba911116
 
-**GitHub:** https://github.com/Nonto21 fact: ...
+**GitHub:** https://github.com/Nonto21 
 -->
